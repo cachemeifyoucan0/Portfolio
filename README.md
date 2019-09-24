@@ -1,5 +1,5 @@
 # Portfolio
-Personal Project Porfolio
+By Milly Mason
 
 ## Goal
 
